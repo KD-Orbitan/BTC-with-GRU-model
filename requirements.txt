@@ -1,0 +1,6 @@
+requests==2.31.0
+pandas==2.2.0
+pandas-ta==0.3.14b
+scikit-learn==1.4.0
+tensorflow==2.15.0
+numpy==1.24.3 
